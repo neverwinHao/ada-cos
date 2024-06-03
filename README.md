@@ -1,5 +1,5 @@
 # adafaceCosine
-FSR领域中使用预训练的adaface提取身份特征进而计算余弦相似度，用于对比FSR对下游任务的帮助
+In the field of FSR, pre-trained adaface is used to extract identity features and calculate cosine similarity, which is used to compare the help of FSR for downstream tasks
 
 ## Example
 
