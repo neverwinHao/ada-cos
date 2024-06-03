@@ -1,5 +1,5 @@
-# ada-cos
-FSR领域中使用预训练的adaface计算余弦相似度，用于对比试验
+# adafaceCosine
+FSR领域中使用预训练的adaface提取身份特征进而计算余弦相似度，用于对比FSR对下游任务的帮助
 
 # Usage
 配置好adaface的环境
