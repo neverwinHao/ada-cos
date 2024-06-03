@@ -3,7 +3,7 @@ FSR领域中使用预训练的adaface提取身份特征进而计算余弦相似�
 
 ## Example
 
-![Cosine](F:\Users\liu'hao\Desktop\adafaceCosine\img\Cosine.png)
+![Cosine](https://github.com/neverwinHao/adafaceCosine/blob/main/img/Cosine.png)
 
 # Usage
 配置好adaface的环境
